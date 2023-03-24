@@ -5,3 +5,6 @@ export { default as ETH } from "./ETH";
 export { default as GNANA } from "./GNANA";
 export { default as POLYGON } from "./POLYGON";
 export { default as TLOS } from "./TLOS";
+export { default as FLARE } from "./FLARE";
+export { default as SONGBIRD } from "./SONGBIRD";
+export { default as COSTON } from "./COSTON";
