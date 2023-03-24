@@ -5,7 +5,7 @@ FLareSwap UIkit is a set of React components and hooks used to build pages on Fl
 
 ## Install
 
-`yarn add @flareswapfinance/uikit`
+`yarn add @flareswap/uikit`
 
 ## Setup
 
@@ -15,7 +15,7 @@ Before using FlareSwap UIkit, you need to provide the theme file to styled-compo
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@Flareswapfinance/uikit'
+import { light, dark } from '@Flareswap/uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -25,7 +25,7 @@ import { light, dark } from '@Flareswapfinance/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@Flareswapfinance/uikit'
+import { ResetCSS } from '@Flareswap/uikit'
 ...
 <ResetCSS />
 ```
